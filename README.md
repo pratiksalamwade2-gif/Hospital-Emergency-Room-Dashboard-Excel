@@ -1,6 +1,6 @@
 # Hospital-Emergency-Room-Dashboard-Excel
 
-**Excel dashboard for analyzing ER patient flow, wait times, and operational KPIs.**
+***Excel dashboard for analyzing ER patient flow, wait times, and operational KPIs.***
 
  • Built a dynamic Excel dashboard to monitor emergency room performance, patient flow, and service efficiency.
  
